@@ -1,0 +1,14 @@
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/resources/Resource.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/beanfactory/DefaultBeanFactory.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/invoke/ProxyHandle.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/scanner/ClassScanner.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/annotation/MyBean.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/annotation/MyConfiguration.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/invoke/MyServiceInvokeHandle.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/invoke/MyConfigurationHandle.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/invoke/MyTransactionalInvokeHandle.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/beanfactory/BeanFactory.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/annotation/MyAutowired.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/annotation/MyService.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/utils/HelpUtils.java
+/Users/ding/Documents/git/persistence_use/myspring/src/main/java/annotation/MyTransactional.java

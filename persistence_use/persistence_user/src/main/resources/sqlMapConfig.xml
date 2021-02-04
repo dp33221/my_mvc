@@ -1,0 +1,8 @@
+<configuration>
+    <property name="driverClass" value="com.mysql.jdbc.Driver"></property>
+    <property name="jdbcUrl" value="jdbc:mysql://rm-uf62aff99b4sls267.mysql.rds.aliyuncs.com:3306/payment"></property>
+    <property name="username" value="payment"></property>
+    <property name="password" value="1qaz@WSX"></property>
+
+    <mapper resource="mapper.xml"></mapper>
+</configuration>

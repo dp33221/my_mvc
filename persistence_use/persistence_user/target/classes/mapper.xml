@@ -1,0 +1,23 @@
+<mapper namespace="mapper.PaymentChannelMapper">
+
+    <select id="selectOne" paramType="pojo.PaymentChannel" resultType="pojo.PaymentChannel">
+        select * from t_payment_channel where id=#{id} and channel_name=#{channel_name}
+    </select>
+
+    <select id="selectAll" resultType="pojo.PaymentChannel">
+        select * from t_payment_channel
+    </select>
+
+    <update id="update">
+        update t_payment_channel set channel_name=#{channel_name} where id=#{id}
+    </update>
+
+    <insert id="insert" paramType="pojo.PaymentChannel">
+        insert into t_payment_channel(id,channel_name) values(#{id},#{channel_name})
+    </insert>
+
+    <delete id="delete">
+        delete from t_payment_channel where id=#{id}
+    </delete>
+
+</mapper>

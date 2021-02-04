@@ -1,0 +1,15 @@
+annotation/MyBean.class
+invoke/MyServiceInvokeHandle.class
+resources/Resource.class
+invoke/ProxyHandle.class
+beanfactory/BeanFactory.class
+invoke/MyTransactionalInvokeHandle.class
+invoke/MyConfigurationHandle.class
+annotation/MyConfiguration.class
+utils/HelpUtils.class
+invoke/MyTransactionalInvokeHandle$1.class
+annotation/MyService.class
+scanner/ClassScanner.class
+beanfactory/DefaultBeanFactory.class
+annotation/MyAutowired.class
+annotation/MyTransactional.class
