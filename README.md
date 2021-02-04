@@ -4,7 +4,7 @@
 ### 第一个模块myspring
   是实现了ioc功能的简单框架
 ### 第二个模块persistence
-  是实现了mybatis基础功能的框架
+  是实现了orm功能的框架
 ### 第三个模块persistence_user
   是一个demo验证模块
 ### 第四个模块springmvcmy
